@@ -7,7 +7,7 @@ Este repositório contém o FrontEnd e o Backend do desafio.
 ## Como rodar o projeto
 
 
-Para rodar o Back End, siga estas etapas:
+Para rodar o Projeto, siga estas etapas:
 
 - Clone o repositório
 
